@@ -1,7 +1,9 @@
 
 100 days code challenge
 
-Day - 1
+Day - 7
+
+
 
 Python based game which simply scores up on destruction of meteors.
 
